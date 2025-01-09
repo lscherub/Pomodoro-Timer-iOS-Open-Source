@@ -23,7 +23,9 @@ This simple **Pomodoro timer** app was born out of a need to take regular breaks
 - **Dark Mode Support**: Fully compatible with **iOS 13 Dark Mode**.
 - **Consistent Color Management**: Handled via a **ColorManager class** to ensure a uniform look.
 
-![[screenshot.png]]
+</br>
+<img width="1077" alt="Screenshot 2023-02-19 at 12 32 59" src="https://raw.githubusercontent.com/lscherub/Pomodoro-Timer-iOS-Open-Source/refs/heads/main/screenshot.png">
+</br>
 
 ## Architecture Overview:
 
