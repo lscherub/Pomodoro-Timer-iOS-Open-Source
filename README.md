@@ -1,7 +1,7 @@
 # Pomodoro Timer iOS (open-source)
 
 ## For Next Update: 
-- **Adding Live Activities to the App**
+- **Working on adding Live Activities to the App**
 
 ## Pomodoro® Timer App for iOS. Developed in Xcode, using Swift and SwiftUI.
 
